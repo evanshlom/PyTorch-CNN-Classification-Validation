@@ -1,4 +1,4 @@
-# PyTorch CNN Classification Validation
+# PyTorch NN Classification Validation
 Sequential Neural Network using PyTorch
 
 ## Image Dataset
